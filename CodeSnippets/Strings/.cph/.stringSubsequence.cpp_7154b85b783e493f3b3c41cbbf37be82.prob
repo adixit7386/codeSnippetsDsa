@@ -1,0 +1,1 @@
+{"name":"Local: stringSubsequence","url":"c:\\Users\\Abhay Dixit\\Desktop\\Snippets_2\\CodeSnippets\\Strings\\stringSubsequence.cpp","tests":[{"id":1673626156168,"input":"abcd\nae","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Abhay Dixit\\Desktop\\Snippets_2\\CodeSnippets\\Strings\\stringSubsequence.cpp","group":"local","local":true}
